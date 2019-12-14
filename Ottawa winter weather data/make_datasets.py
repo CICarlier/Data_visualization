@@ -8,7 +8,7 @@ daily_2014 = pd.read_csv("Ottawa winter weather data/data/en_climate_daily_ON_61
 daily_2015 = pd.read_csv("Ottawa winter weather data/data/en_climate_daily_ON_6105976_2015_P1D.csv")
 daily_2016 = pd.read_csv("Ottawa winter weather data/data/en_climate_daily_ON_6105976_2016_P1D.csv")
 daily_2017 = pd.read_csv("Ottawa winter weather data/data/en_climate_daily_ON_6105976_2017_P1D.csv")
-daily_2018 = pd.read_csv("Ottawa winter weather data/data/SIADS521HW2/datasets/en_climate_daily_ON_6105976_2018_P1D.csv")
+daily_2018 = pd.read_csv("Ottawa winter weather data/data/en_climate_daily_ON_6105976_2018_P1D.csv")
 daily_2019 = pd.read_csv("Ottawa winter weather data/data/en_climate_daily_ON_6105976_2019_P1D.csv")
 
 hourly_2013 = pd.read_csv('Ottawa winter weather data/data/hourly_data_2013.csv')
